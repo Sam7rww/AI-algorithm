@@ -1,0 +1,4 @@
+For non-optimal version: run
+	python astar_search_nonOp.py <file-name>
+For optimal version: run
+	python astar_search.py <file-name>

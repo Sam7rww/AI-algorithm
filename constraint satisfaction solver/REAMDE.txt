@@ -1,0 +1,9 @@
+For basic version: run
+	python solver.py xword00.txt dictionary_small.txt
+For AC-3 version: run
+	python solver.py xword01.txt dictionary_small.txt true
+
+In the output, most is similar to sample_run. I also print the final result list.
+
+The command line can only contain 2 or 3 arg.
+
