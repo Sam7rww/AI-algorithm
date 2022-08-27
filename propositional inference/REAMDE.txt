@@ -1,0 +1,5 @@
+run the command line: 
+	python forward_chain.py kb_00.txt
+
+
+In the output, the structure is similar to sample_run.

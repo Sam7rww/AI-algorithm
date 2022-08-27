@@ -1,0 +1,5 @@
+run the command line: 
+	python BayesNet.py burglary.txt
+
+
+In the output, the structure is similar to sample_run.
